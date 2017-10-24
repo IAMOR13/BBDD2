@@ -5,6 +5,8 @@
  <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex1.PNG"/>
  
  <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex1.PNG"/>
+ 
+ Comanda: SHOW ENGINES\G
 
 Si SUPPORT està en YES vol dir que està actiu i es compatible.
 
