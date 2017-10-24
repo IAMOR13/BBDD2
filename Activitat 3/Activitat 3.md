@@ -25,6 +25,20 @@ El motor d'emmagatzematge per defecte es en el que SUPPORT esta en DEFAULT
 
 4. Explica els passos per instal·lar i activar l'ENGINE MyRocks. MyRocks és un motor d'emmagatzematge per MySQL basat en RocksDB (SGBD incrustat de tipus clau-valor).
 
+Activar en el arxiu:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/5Ex1.PNG"/>
+
+[percona-testing-$basearch]
+[percona-testing-noarch]
+[percona-experimental-$basearch]
+[percona-experimental-noarch]
+
+en 1 per activar els repositoris experimentals
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/6Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/7Ex1.PNG"/>
 
 Checkpoint: Mostra al professor que està instal·lat i posa un exemple de com funciona.
 
