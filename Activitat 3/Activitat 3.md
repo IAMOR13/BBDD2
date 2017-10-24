@@ -1,7 +1,6 @@
 1. Indica quins són els motors d’emmagatzematge que pots utilitzar (quins estan actius)? Mostra al comanda utilitzada i el resultat d’aquesta.
 
- <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%303/IMG/1Ex1.PNG"/>
- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+ <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%03/IMG/1Ex1.PNG"/>
 
 Si SUPPORT està en YES vol dir que està actiu i es compatible.
 
