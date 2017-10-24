@@ -12,6 +12,11 @@ Si SUPPORT està en YES vol dir que està actiu i es compatible.
 
 2. Com puc saber quin és el motor d’emmagatzematge per defecte. Mostra com canviar aquest paràmetre de tal manera que les noves taules que creem a la BD per defecte utilitzin el motor MyISAM?
 
+El motor d'emmagatzematge per defecte es en el que SUPPORT esta en DEFAULT
+
+ <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex1.PNG"/>
+ 
+ <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex1.PNG"/>
 
 3. Com podem saber quin és el motor d'emmagatzematge per defecte?
 
