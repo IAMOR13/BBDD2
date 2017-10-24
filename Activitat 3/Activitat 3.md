@@ -1,6 +1,10 @@
 1. Indica quins són els motors d’emmagatzematge que pots utilitzar (quins estan actius)? Mostra al comanda utilitzada i el resultat d’aquesta.
 
  <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex1.PNG"/>
+ 
+ <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex1.PNG"/>
+ 
+ <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex1.PNG"/>
 
 Si SUPPORT està en YES vol dir que està actiu i es compatible.
 
