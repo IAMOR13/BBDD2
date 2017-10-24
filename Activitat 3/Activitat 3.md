@@ -16,6 +16,8 @@ El motor d'emmagatzematge per defecte es en el que SUPPORT esta en DEFAULT
 
  <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex1.PNG"/>
  
+ Per cambiar el motor d'emmagatzemarge per defecte utilitzar: SET default_storage_engine=MRG_MYISAM;
+ 
  <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex1.PNG"/>
 
 3. Com podem saber quin és el motor d'emmagatzematge per defecte?
