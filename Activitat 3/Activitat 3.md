@@ -40,6 +40,8 @@ en 1 per activar els repositoris experimentals
 
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/7Ex1.PNG"/>
 
+
+
 Checkpoint: Mostra al professor que està instal·lat i posa un exemple de com funciona.
 
 
