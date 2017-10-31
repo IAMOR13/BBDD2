@@ -48,7 +48,13 @@ Comanda per instalar MyRocks
 
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/10Ex1.PNG"/>
 
+Activar els permisos per el engine
 
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/11Ex1.PNG"/>
+
+Engines activats
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/12Ex1.PNG"/>
 
 Checkpoint: Mostra al professor que està instal·lat i posa un exemple de com funciona.
 
