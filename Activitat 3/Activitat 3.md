@@ -40,6 +40,14 @@ en 1 per activar els repositoris experimentals
 
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/7Ex1.PNG"/>
 
+Comanda per instalar MyRocks
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/8Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/9Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/10Ex1.PNG"/>
+
 
 
 Checkpoint: Mostra al professor que està instal·lat i posa un exemple de com funciona.
