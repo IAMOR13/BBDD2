@@ -90,11 +90,17 @@ Per llistar els fitxers fisics de la BD es troben a var/lib/mysql/nomdelabaseded
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/21Ex1.PNG"/>
 
 frm: Guarda la definició de l'estructura de la taula
+
 MYD: Guarda el contingut de la taula
+
 MYI: Guarda els index de la taula
+
 opt: Guarda els jocs de caràcters de la base de dades
+
 TRN: Guarda els tipus de trigger
+
 TRG: Guarda els triggers
+
 
 Activitat 2. INNODB part I. REALITZA ELS SEGÜENTS APARTATS. (2 punts)
 
