@@ -105,7 +105,28 @@ TRG: Guarda els triggers
 Activitat 2. INNODB part I. REALITZA ELS SEGÜENTS APARTATS. (2 punts)
 
 
-1. Importa la BD Sakila com a taules InnoDB. 
+1. Importa la BD Sakila com a taules InnoDB.
+
+Esorrar l'anterior base de dades:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex2.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex2.PNG"/>
+
+Canviar la configuració de mysql per posar el Engine amb InnoDB com engine per defecte:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex2.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex2.PNG"/>
+
+Carregar la base de dades sakila
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/5Ex2.PNG"/>
+
+Les taules estan en InnoDB:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/6Ex2.PNG"/>
+
 
 
 2. Quin/quins són els fitxers de dades? A on es troben i quin és la seva mida?
