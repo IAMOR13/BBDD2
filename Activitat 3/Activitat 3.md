@@ -72,6 +72,8 @@ Canviar del arxiu sql tots els Engine i o borrar-lo o cambiar-lo per MyISAM:
 
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/15Ex1.PNG"/>
 
+Carregar la BD a Mysql
+
 Activitat 2. INNODB part I. REALITZA ELS SEGÜENTS APARTATS. (2 punts)
 
 
