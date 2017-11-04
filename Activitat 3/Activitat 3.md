@@ -131,17 +131,45 @@ Les taules estan en InnoDB:
 
 2. Quin/quins són els fitxers de dades? A on es troben i quin és la seva mida?
 
+Els fitxers de dades es troben a var/lib/mysql/nomdelabasededades
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/7Ex2.PNG"/>
+
 
 3. Canvia la configuració del MySQL perqurè:
+
+
 Canviar la localització dels fitxers del tablespace de sistema per defecte a /discs-mysql/
+
+
 Tinguem dos fitxers corresponents al tablespace de sistema.
+
+
 Tots dos han de tenir la mateixa mida inicial (1MB) 
+
+
 El tablespace ha de creixer de 1MB en 1MB.
+
+
+Primer tenim que desactivar la tablespace del sistema per defecte en el fitxer de configuració my.cnf amb:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/8Ex2.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/9Ex2.PNG"/>
+
+
 Situa aquests fitxers (de manera relativa a la localització per defecte) en una nova localització simulant el següent:
+
+
 /discs-mysql/disk1/primer fitxer de dades → simularà un disc dur
+
+
 /discs-mysql/disk2/segon fitxer de dades → simularà un segon disc dur.
 
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/10Ex2.PNG"/>
 
+
+PREGUNTAR EN MY.CNF NO TENGO SECCION ([mysqld] innodb_file_per_table=1)
 4. Checkpoint: Mostra al professor els canvis realitzats i que la BD continua funcionant.
 
 
