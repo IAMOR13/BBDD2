@@ -141,12 +141,9 @@ Els fitxers de dades es troben a var/lib/mysql/nomdelabasededades
 
 Canviar la localització dels fitxers del tablespace de sistema per defecte a /discs-mysql/
 
-
 Tinguem dos fitxers corresponents al tablespace de sistema.
 
-
 Tots dos han de tenir la mateixa mida inicial (1MB) 
-
 
 El tablespace ha de creixer de 1MB en 1MB.
 
@@ -160,11 +157,10 @@ Primer tenim que desactivar la tablespace del sistema per defecte en el fitxer d
 
 Situa aquests fitxers (de manera relativa a la localització per defecte) en una nova localització simulant el següent:
 
-
 /discs-mysql/disk1/primer fitxer de dades → simularà un disc dur
 
-
 /discs-mysql/disk2/segon fitxer de dades → simularà un segon disc dur.
+
 
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/10Ex2.PNG"/>
 
