@@ -22,6 +22,7 @@ El motor d'emmagatzematge per defecte es en el que SUPPORT esta en DEFAULT
 
 3. Com podem saber quin és el motor d'emmagatzematge per defecte?
 
+El motor d'emmagatzematge per defecte es el que en SHOW ENGINES\G posa DEFAULT
 
 4. Explica els passos per instal·lar i activar l'ENGINE MyRocks. MyRocks és un motor d'emmagatzematge per MySQL basat en RocksDB (SGBD incrustat de tipus clau-valor).
 
@@ -73,6 +74,27 @@ Canviar del arxiu sql tots els Engine i o borrar-lo o cambiar-lo per MyISAM:
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/15Ex1.PNG"/>
 
 Carregar la BD a Mysql
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/16Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/17Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/18Ex1.PNG"/>
+
+Per llistar els fitxers fisics de la BD es troben a var/lib/mysql/nomdelabasededades
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/19Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/20Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/21Ex1.PNG"/>
+
+frm: Guarda la definició de l'estructura de la taula
+MYD: Guarda el contingut de la taula
+MYI: Guarda els index de la taula
+opt: Guarda els jocs de caràcters de la base de dades
+TRN: Guarda els tipus de trigger
+TRG: Guarda els triggers
 
 Activitat 2. INNODB part I. REALITZA ELS SEGÜENTS APARTATS. (2 punts)
 
