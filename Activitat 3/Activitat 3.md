@@ -62,7 +62,15 @@ Checkpoint: Mostra al professor que està instal·lat i posa un exemple de com f
 5. Importa la BD Sakila com a taules MyISAM. Fes els canvis necessaris per importar la BD Sakila perquè totes les taules siguin de tipus MyISAM. 
 Mira quins són els fitxers físics que ha creat, quan ocupen i quines són les seves extensions. Mostra'n una captura de pantalla i indica què conté cada fitxer.
 
+Canviar la configuració de mysql per posar el Engine amb MyIsam com engine per defecte:
 
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/13Ex1.PNG"/>
+
+Canviar del arxiu sql tots els Engine i o borrar-lo o cambiar-lo per MyISAM:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/14Ex1.PNG"/>
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/15Ex1.PNG"/>
 
 Activitat 2. INNODB part I. REALITZA ELS SEGÜENTS APARTATS. (2 punts)
 
