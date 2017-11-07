@@ -206,8 +206,21 @@ Activitat 5. REDOLOG. REALITZA ELS SEGÜENTS APARTATS. (2 punt)
 
 1. Com podem comprovar (Innodb Log Checkpointing):
 LSN (Log Sequence Number)
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex5.PNG"/>
+
 L'últim LSN actualitzat a disc
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex5.PNG"/>
+
+
 Quin és l'últim LSN que se li ha fet Checkpoint
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex5.PNG"/>
+
+Per veure els LSN utilitzar la comanda:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex5.PNG"/>
 
 
 2. Proposa un exemple a on es vegi l'ús del redolog
