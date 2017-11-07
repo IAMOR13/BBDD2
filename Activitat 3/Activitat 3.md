@@ -171,7 +171,9 @@ PREGUNTAR EN MY.CNF NO TENGO SECCION ([mysqld] innodb_file_per_table=1)
 
 Activitat 3. INNODB part II. REALITZA ELS SEGÜENTS APARTATS. (1 punt)
 
-1. Partint de l'esquema anterior configura el Percona Server perquè cada taula generi el seu propi tablespace en una carpeta anomenada tspaces (aquesta pot estar situada a on vulgueu). 
+1. Partint de l'esquema anterior configura el Percona Server perquè cada taula generi el seu propi tablespace en una carpeta anomenada tspaces (aquesta pot estar situada a on vulgueu).
+
+
 
 
 1. Indica quins són els canvis de configuració que has realitzat.
