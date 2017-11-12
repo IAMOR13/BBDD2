@@ -189,6 +189,8 @@ Y ara afegim una nova taula amb Data Directory per indicar-li que on volem que e
 
 Com per que es generi un tablespace fa falta indicar-lo amb DATA DIRECTORY = "/tspaces"; , tendriem que cambiar totes les taules de la base de dades sakila per indicar-li el nou Data Directory.
 
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex3.PNG"/>
+
 
 
 2. Després del canvi què ha passat amb els fitxers que contenien les dades de la BD de Sakila? Fes les captures necesàries per complementar la resposta.
