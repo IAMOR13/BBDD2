@@ -223,11 +223,19 @@ Per veure els LSN utilitzar la comanda:
 <img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex5.PNG"/>
 
 
-2. Proposa un exemple a on es vegi l'ús del redolog
-
-
 3. Com podem mirar el número de pàgines modificades (dirty pages)? I el número total de pàgines?
 
+Amb la comanda SHOW ENGINE INNODB STATUS
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/5Ex5.PNG"/>
+
+Número total de pàgines
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/6Ex5.PNG"/>
+
+Número de pàgines modificades
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/7Ex5.PNG"/>
 
 4. Checkpoint: Mostra al professor els canvis realitzats i que la BD continua funcionant.
 
