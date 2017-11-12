@@ -187,10 +187,15 @@ Y ara afegim una nova taula amb Data Directory per indicar-li que on volem que e
 
 1. Indica quins són els canvis de configuració que has realitzat.
 
+Com per que es generi un tablespace fa falta indicar-lo amb DATA DIRECTORY = "/tspaces"; , tendriem que cambiar totes les taules de la base de dades sakila per indicar-li el nou Data Directory.
+
+
 
 2. Després del canvi què ha passat amb els fitxers que contenien les dades de la BD de Sakila? Fes les captures necesàries per complementar la resposta.
 
+Al afegir el tablespace a la taula, es crearia un arxiu idb per cada taula en el directori indicat, en aquest cas, /tspaces.
 
+Mysql també crea arxius isl que contenen el nom de la ruta per a cada taula.
 
 Activitat 4. INNODB part III. REALITZA ELS SEGÜENTS APARTATS. (1 punts)
 
