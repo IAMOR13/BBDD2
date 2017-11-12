@@ -197,6 +197,8 @@ Al afegir el tablespace a la taula, es crearia un arxiu idb per cada taula en el
 
 Mysql també crea arxius isl que contenen el nom de la ruta per a cada taula.
 
+PREGUNTAR HE VUELTO A CARGAR LA BD sakila Y LOS ARCHIVOS FISICOS TABLA ACTOR QUE CAMBIE CON DATA DIRECTORY = "/tspaces" NO ESTA EN var/lib/mysql/sakila NI EN tspaces!!
+
 Activitat 4. INNODB part III. REALITZA ELS SEGÜENTS APARTATS. (1 punts)
 
 1. Crea un tablespace anomenat 'ts1' situat a /discs-mysql/disc1/ i col·loca les taules actor, address i category de la BD Sakila.
