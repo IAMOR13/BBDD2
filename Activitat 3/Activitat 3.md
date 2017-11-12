@@ -173,8 +173,17 @@ Activitat 3. INNODB part II. REALITZA ELS SEGÜENTS APARTATS. (1 punt)
 
 1. Partint de l'esquema anterior configura el Percona Server perquè cada taula generi el seu propi tablespace en una carpeta anomenada tspaces (aquesta pot estar situada a on vulgueu).
 
+Primer cal activar l'opció de innodb_file_per_table amb:
 
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex3.PNG"/>
 
+Ara ja està activat:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex3.PNG"/>
+
+Y ara afegim una nova taula amb Data Directory per indicar-li que on volem que es generi el tablespace
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex3.PNG"/>
 
 1. Indica quins són els canvis de configuració que has realitzat.
 
