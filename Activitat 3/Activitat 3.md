@@ -313,7 +313,11 @@ També tenim que afegir la linea Federated a my.cnf:
 
 OPCIÓ1:
 
+Modifiquem el arxiu sakila.sql per activar el engine federated de la taula desigada y posem la conexió remota.
 
+(En aquest cas en la taula film de sakila)
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/6Ex6.PNG"/>
 
 OPCIÓ2:
 
