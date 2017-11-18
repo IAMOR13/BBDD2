@@ -296,7 +296,29 @@ Activitat 7. Storage Engine CSV (1 punt)
 
 1. Documenta i posa exemple de com utilitzar ENGINE CSV.
 
+Per utilitzar CSV engine només fa falta utilitzar ENGINE = CSV en una nova taula:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex7.PNG"/>
+
 2. Cal documentar els passos que has hagut de realitzar per preparar l'exemple: configuracions, instruccions DML, DDL, etc....
+
+Instruccions DDL:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex7.PNG"/>
+
+
+Instruccions DML:
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex7.PNG"/>
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex7.PNG"/>
+
+Els arxius físics de la base de dades sakila creats amb engine csv:
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex7.PNG"/>
 
 
 3. Checkpoint: Mostra al professor la configuració que has hagut de realitzar i el seu funcionament.
