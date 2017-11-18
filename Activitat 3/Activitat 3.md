@@ -286,6 +286,42 @@ Tingues en compte els permisos a nivell de BD i de SO així com temes de seguret
 
 4. Detalla quines són els passos i comandes que has hagut de realitzar en cada màquina.
 
+Primer comprobar la conexió entre hosts:
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/1Ex6.PNG"/>
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/2Ex6.PNG"/>
+
+A continuació, habilitar la configuració remota del hosts en my.cnf
+i comentar la linea skip-networking i bind-address=0.0.0.0
+En els dos servidors percona.
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/3Ex6.PNG"/>
+
+
+Ara, cal habilitar els usuaris que es conectaran a mysql:
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/4Ex6.PNG"/>
+
+També tenim que afegir la linea Federated a my.cnf:
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/5Ex6.PNG"/>
+
+OPCIÓ1:
+
+
+
+OPCIÓ2:
+
+Ara creem la taula federated
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/6Ex6.PNG"/>
+
 
 4. Checkpoint: Mostra al professor la configuració que has hagut de realitzar i el seu funcionament.
 
