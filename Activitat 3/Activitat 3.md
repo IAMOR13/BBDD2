@@ -313,6 +313,12 @@ També tenim que afegir la linea Federated a my.cnf:
 
 OPCIÓ1:
 
+1- Afegim dades o utilitzem les ja creades en el servidor remot
+
+2- Fem la conexió en el servidor remot amb grant select on sakila.* to 'root'@'10.0.2.16' identified by 'patata';
+
+3- En el client, afegim a la taula o creem una nova al final de la creació d'aquesta: CONNECTION='mysql://root:patata@10.0.2.16:3306/sakila/provafederated';
+
 Modifiquem el arxiu sakila.sql per activar el engine federated de la taula desigada y posem la conexió remota.
 
 (En aquest cas en la taula film de sakila)
