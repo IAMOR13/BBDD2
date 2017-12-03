@@ -336,10 +336,13 @@ OPCIÓ1:
 
 OPCIÓ2:
 
-Ara creem la taula federated
+Creem el nom de server i el conectem amb només el nom del server i la taula:
 
 
-<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/6Ex6.PNG"/>
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/Fed-7.PNG"/>
+
+
+<img src="https://github.com/IAMOR13/BBDD2/blob/master/Activitat%203/IMG/Fed-8.PNG"/>
 
 
 4. Checkpoint: Mostra al professor la configuració que has hagut de realitzar i el seu funcionament.
